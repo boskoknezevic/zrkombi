@@ -16,7 +16,7 @@ export default function DestinationsPage() {
           </p>
         </div>
 
-        <div className="dest-grid">
+        <div className="trips-grid">
           {destinations.map((dest) => (
             <TripCard key={dest.name} destination={dest} />
           ))}
