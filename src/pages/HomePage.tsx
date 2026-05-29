@@ -96,7 +96,7 @@ export default function HomePage({ onNavigate }: HomePageProps) {
             Taxi S — udoban i siguran prevoz putnika
           </p>
           <div className="hero-cta animate-fade-up-4">
-            <a href="tel:+38164610618" className="btn-primary">Pozovite nas</a>
+            <a href="tel:+381646106181" className="btn-primary">Pozovite nas</a>
             <button className="btn-ghost" onClick={() => onNavigate('destinations')}>
               Naše destinacije
             </button>
