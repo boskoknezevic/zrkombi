@@ -53,7 +53,7 @@ export default function AboutPage() {
         {/* ── INTRO GRID ── */}
         <div className="about-intro-grid">
           <div className="about-intro-text">
-            <h2>Vaš pouzdani partner na putu</h2>
+            <h2>Vaš pouzdan partner na putu</h2>
             <p>
               Taxi S je porodična firma osnovana u Zrenjaninu, koja već više od 20 godina pruža
               pouzdan, udoban i siguran prevoz putnika do destinacija u Srbiji i inostranstvu.

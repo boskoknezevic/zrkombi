@@ -87,7 +87,7 @@ export default function HomePage({ onNavigate }: HomePageProps) {
       {/* ── HERO ── */}
       <section className="hero">
         <div className="hero-left">
-          <div className="hero-eyebrow animate-fade-up-1">Pouzdani prevoz od 2004.</div>
+          <div className="hero-eyebrow animate-fade-up-1">Pouzdan prevoz od 2004.</div>
           <h1 className="hero-title animate-fade-up-2">
             Kombi Prevoz<br />
             <span>Zrenjanin</span>
