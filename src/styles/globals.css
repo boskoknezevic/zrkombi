@@ -1309,3 +1309,9 @@ nav {
     padding-bottom: 64px;
   }
 }
+
+@media (max-width: 640px) {
+  .social-platforms {
+    grid-template-columns: 1fr;
+  }
+}
